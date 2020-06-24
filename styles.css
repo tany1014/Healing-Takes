@@ -1,0 +1,23 @@
+/*tag css*/
+body {
+    background-color:#ddf3f5;
+  }
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    width: 5%;
+    border-width: 4px;
+  }
+h1{
+  color: #1e90ff;
+}
+h3{
+  color: #1e90ff;
+}
+/*CLASS css*/
+.blogs{color: #00008b	;}
+/*id css*/
+#blog{color: #9932cc;}
+/*hover*/
+a:hover{background-color: red;}
